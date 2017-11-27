@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="SecretManage"
+  id="myeclipse.1511747628408"
+  context-root="/SecretManage"
+  j2ee-spec="6.0"
+  archive="SecretManage.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
